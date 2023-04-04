@@ -1,0 +1,22 @@
+{
+  "name": "myshop3",
+  "version": "1.0.0",
+  "description": "Shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awolln/MYSHOP3.git"
+  },
+  "author": "Awel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awolln/MYSHOP3/issues"
+  },
+  "homepage": "https://github.com/awolln/MYSHOP3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
