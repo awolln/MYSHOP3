@@ -2,8 +2,7 @@ import React from 'react'
 import { Card } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import Rating from './Rating'
-
-
+import ProductScreen from '../screens/ProductScreen'
 
 const product = ({product}) => {
   return (
@@ -34,4 +33,4 @@ const product = ({product}) => {
   )
 }
 
-export default product
+export default ProductScreen
